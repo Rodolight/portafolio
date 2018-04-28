@@ -26,3 +26,8 @@ svg rect{
 .fadeIn {
   animation-name: fadeIn;
 }
+
+.TextWhite{
+  color: white;
+  background-color: black;
+}
